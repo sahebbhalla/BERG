@@ -7,13 +7,17 @@ The BERG web page uses the users location to determine the current weather in th
 - The motivation behind this app was to help users get to where they are travelling while also being aware of the current weather conditions
 - BERG helps save time and money by users not getting lost
 
-## Table of Contents (Optional)
+## Screenshots
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+<img width="959" alt="BERG" src="https://user-images.githubusercontent.com/109004012/185772064-d1b9936c-7893-4e54-9d21-d2cebded97be.png">
+<img width="956" alt="BERG_NEW_TRIP" src="https://user-images.githubusercontent.com/109004012/185772068-7be51d40-60af-449e-928c-8632
+<img width="959" alt="BERG_TRIP_HISTORY" src="https://user-images.githubusercontent.com/109004012/185772073-30b761a9-83e1-4e3b-bc9b-a744f7c474d3.png">
+c0758db2.png">
 
-- [Installation](#installation)
-- [Credits](#credits)
-- [License](#license)
+## URLs
+
+1. Github repositry link: https://github.com/sahebbhalla/BERG
+2. Deployed application link: https://sahebbhalla.github.io/BERG/
 
 ## Installation
 
